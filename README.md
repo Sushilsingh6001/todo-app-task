@@ -14,7 +14,7 @@ Filters can be applied together to view tasks of a certain priority and status (
 
 Installation Clone the repository:
 
-bash Copy code git clone (https://github.com/Sushilsingh6001/todo-app.git) cd todo-app Install dependencies:
+bash Copy code git clone (https://github.com/Sushilsingh6001/todo-app-task) cd todo-app Install dependencies:
 
 bash Copy code npm install Run the app:
 
